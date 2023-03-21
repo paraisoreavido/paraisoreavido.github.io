@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About the Purelog Theme
+title: About Paraíso Reavido
 permalink: /about/
 ---
 
-**Purelog** is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal [**Pure.css** framework](https://github.com/pure-css/pure) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
+**Paraíso Reavido** (english: *Paradise Regained*) is the name of a less known work of british poet John Milton, author of the epic poem *Paradise Lost*. It tells the story about the retake of Paradise after the fall described in previous book. 
 
 I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
 
