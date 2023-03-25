@@ -4,7 +4,19 @@ title: About Paraíso Reavido
 permalink: /about/
 ---
 
+## Name
+
 **Paraíso Reavido** (english: *Paradise Regained*) is the name of a less known work of british poet John Milton, author of the epic poem *Paradise Lost*. It tells the story about the retake of Paradise after the fall described in previous book. 
+
+Although I' obsessed with **Paradise Lost**, I thought it would be more suitable for this webblog intentions calling out not for hopelessness but salvation.
+
+<div align="center"><img src='https://drive.google.com/uc?id=1VLEoNwMNeDOohvh9OUA0xQtSjHPiGEkl' alt="Girl in a jacket" width="500" height="600"></div>
+
+<div align="center"><p><i>(Pic I took in youth meeting at church. I love firelights!)</i></p></div>
+
+---
+
+## Hi, I'm Miguel Ferreira
 
 I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
 
