@@ -1,3 +1,6 @@
+# ESTE SITE SÓ FUNCIONA NO REPOSITÓRIO LOCAL (no PC).
+Dê `git clone`
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
