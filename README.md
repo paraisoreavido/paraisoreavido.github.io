@@ -1,5 +1,7 @@
 # ESTE SITE SÓ FUNCIONA NO REPOSITÓRIO LOCAL (no PC).
 
+Siga o passo-a-passo abaixo para vê-lo funcionar localmente (e da forma correta):
+
 1. Abra o prompt/Powershell e use o comando `git clone https://github.com/paraisoreavido/paraisoreavido.github.io.git` no local do seu PC em que deseja baixar este projeto.
 2. Entre no arquivo recém criado (`cd paraisoreavido.github.io` no prompt/Powershell).
 2. Dentro da pasta, use o comando `bundle exec jekyll serve` para executar o site. 
